@@ -1,7 +1,11 @@
 /* eslint-disable no-console */
 
-import Dog from './dog';
+// FizzBuzz
+// import FizzBuzz from './fizzBuzz';
+//
+// const threshold = 999;
+// const f = new FizzBuzz(threshold);
+// console.log(f.solve());
 
-const toby = new Dog('Toby');
 
-console.log(toby.bark());
+console.log('foo');
