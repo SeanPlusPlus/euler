@@ -8,4 +8,7 @@
 // console.log(f.solve());
 
 
-console.log('foo');
+import Fib from './fibonacci';
+
+const f = new Fib();
+console.log(f.solve());
