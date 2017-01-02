@@ -1,7 +1,7 @@
 {
-  "name": "js-stack-from-scratch",
+  "name": "project euler in es6",
   "version": "1.0.0",
-  "description": "JavaScript Stack from Scratch - Step-by-step tutorial to build a modern JavaScript stack",
+  "description": "project euler es6",
   "scripts": {
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,6 +31,6 @@
     "gulp-eslint": "^3.0.1"
   },
   "repository": "verekia/js-stack-from-scratch",
-  "author": "Jonathan Verrecchia - @verekia",
+  "author": "@seanplusplus",
   "license": "MIT"
 }
